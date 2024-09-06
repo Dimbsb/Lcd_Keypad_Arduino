@@ -7,9 +7,10 @@ Non-numeric inputs are ignored. Once both digits are entered, the LCD displays t
 This project demonstrates basic input handling and display output using Arduino.
 The project is tested by running the generated hex file in PICSimLab, a virtual laboratory for microcontroller simulations, ensuring proper functionality and performance. 
 
-This project was developed as part of coursework at University Of Western Macedonia, demonstrating practical applications of microcontroller programming and system integration.
+#License
 
-
+This program is licensed under the UOWM(University of Western Macedonia) License, as part of Microprocessors course,
+demonstrating practical applications of microcontroller programming and system integration.
 
 
 
